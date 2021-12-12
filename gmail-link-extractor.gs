@@ -8,7 +8,7 @@ function GetURLs ()
   //Label to search
   // var userInputSheet = ss.getSheets()[0];
   //var labelName = userInputSheet.getRange("B2").getValue();
-  var labelName = '' #add one here
+  var labelName = '' //add one here
  
   //Create, empty target sheet
   var sheetName = "Label: " + labelName;
