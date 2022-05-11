@@ -20,6 +20,8 @@ The rest in `utils/` are some specific scripts I used to process the links and m
 - Go to `extensions -> Apps Script`
 - Paste the `.gs` file into the editor and save 
 - Some Google\Gmail Auth will likly popup when you run it for the firs time. This does not require any special permissions, just need to be able to read your emails
+- Set a time trigger to run this script daily
+- Create a Google Drive folder called 'goddardpics' - or change that in the code....
 
 Another option is to run the `onOpen` method to add a gsheet menu item - totally optional - you can just run the script from Appscript directly
 
