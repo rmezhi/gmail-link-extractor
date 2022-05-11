@@ -34,8 +34,8 @@ Another option is to run the `onOpen` method to add a gsheet menu item - totally
 ## Operation
 * The script scans emails with given Label from gmail
 * For each email it matches links using a regex and 
-* ~~It creates a sheet with the label name
-* ~~Popules 1 row for each link found
+* ~~It creates a sheet with the label name~~
+* ~~Popules 1 row for each link found~~
 * Extracts the teachers notes - if available 
 * Formats the proper Image URL
 * Fetches the image and writes it to Drive under a folder called 'goddardpics' - giving it the name from Teacher notes
